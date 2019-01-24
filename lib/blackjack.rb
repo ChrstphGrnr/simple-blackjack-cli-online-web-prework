@@ -60,5 +60,6 @@ def runner
   until initial cards > 21
    hit?(initial_cards)
   end
+end_game
 end
     
